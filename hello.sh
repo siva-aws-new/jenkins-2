@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello Siva! Your Jenkins CI job ran successfully."
-echo "Changes done by SivaKumar"
+echo "Email notification added"
 chmod +x hello.sh
